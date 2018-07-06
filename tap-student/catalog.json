@@ -1,0 +1,174 @@
+{
+  "streams": [
+    {
+      "stream": "students",
+      "tap_stream_id": "students",
+      "schema": {
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": true,
+        "properties": {
+          "id": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "studentUniqueId": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "birthDate": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "firstName": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "hispanicLatinoEthnicity": {
+            "type": [
+              "null",
+              "boolean"
+            ]
+          },
+          "lastSurname": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "loginId": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "oldEthnicityType": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "personalTitlePrefix": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "sexType": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "addresses": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "characteristics": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "cohortYears": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "disabilities": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "electronicMails": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "identificationCodes": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "identificationDocuments": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "indicators": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "internationalAddresses": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "languages": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "otherNames": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "programParticipations": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "races": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "telephones": {
+            "type": [
+              "null",
+              "array"
+            ]
+          },
+          "visas": {
+            "type": [
+              "null",
+              "array"
+            ]
+          }
+        },
+        "key_properties": [
+          "id"
+        ]
+      },
+      "metadata": [],
+      "key_properties": [
+        "id"
+      ]
+    }
+  ]
+}
